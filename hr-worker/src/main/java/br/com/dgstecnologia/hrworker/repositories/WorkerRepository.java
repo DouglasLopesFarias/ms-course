@@ -5,8 +5,4 @@ import br.com.dgstecnologia.hrworker.entities.Worker;
 
 public interface  WorkerRepository extends JpaRepository<Worker, Long> {
 	
-	
-	
-	
-
 }
